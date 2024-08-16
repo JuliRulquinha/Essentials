@@ -1,0 +1,5 @@
+
+if(punch)
+{
+    character.hp--;
+}
