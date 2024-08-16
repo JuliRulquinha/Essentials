@@ -1,0 +1,4 @@
+added a special feature
+
+
+player.ObliterateAllEnemies();
